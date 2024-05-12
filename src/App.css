@@ -1,0 +1,9 @@
+
+.container.light-mode {
+  background-color: #ffffff;
+  color: #333333;
+}
+
+.container.dark-mode {
+  background-color: #333333;
+}
